@@ -1,0 +1,26 @@
+﻿  dz183_prog4_TestCatalogClass.cpp
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(29,27): error C2440: 'initializing': cannot convert from 'nullptr' to 'Book &'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(88,8): error C2086: 'int isbn': redefinition
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(73): message : see declaration of 'isbn'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(116,9): error C2374: 'success': redefinition; multiple initialization
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(98): message : see declaration of 'success'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(87,3): error C2360: initialization of 'new_book' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(74): message : see declaration of 'new_book'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(94,3): error C2360: initialization of 'new_book' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(74): message : see declaration of 'new_book'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(104,3): error C2360: initialization of 'success' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(98): message : see declaration of 'success'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(104,3): error C2360: initialization of 'new_book' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(74): message : see declaration of 'new_book'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(122,3): error C2360: initialization of 'success' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(116): message : see declaration of 'success'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(122,3): error C2360: initialization of 'foundBook' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(108): message : see declaration of 'foundBook'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(122,3): error C2360: initialization of 'new_book' is skipped by 'case' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(74): message : see declaration of 'new_book'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(125,3): error C2361: initialization of 'success' is skipped by 'default' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(116): message : see declaration of 'success'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(125,3): error C2361: initialization of 'foundBook' is skipped by 'default' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(108): message : see declaration of 'foundBook'
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(125,3): error C2361: initialization of 'new_book' is skipped by 'default' label
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass\dz183_prog4_TestCatalogClass.cpp(74): message : see declaration of 'new_book'
