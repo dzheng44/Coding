@@ -1,0 +1,4 @@
+﻿  dz183_prog2_rockpaperscissors.cpp
+C:\Users\zheng\OneDrive\Documents\College\C++\Program2_rockpaperscissors\Program2_rockpaperscissors\dz183_prog2_rockpaperscissors.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zheng\OneDrive\Documents\College\C++\Program2_rockpaperscissors\Program2_rockpaperscissors\dz183_prog2_rockpaperscissors.cpp(123): warning C4715: 'determine_winner': not all control paths return a value
+  Program2_rockpaperscissors.vcxproj -> C:\Users\zheng\OneDrive\Documents\College\C++\Program2_rockpaperscissors\Debug\Program2_rockpaperscissors.exe

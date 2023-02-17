@@ -1,0 +1,3 @@
+﻿  a1_driver.cpp
+C:\Users\zheng\source\repos\A1_Data_Cleaning\A1_Data_Cleaning\Data.h(38,82): warning C4305: 'default argument': truncation from 'char' to 'bool'
+  A1_Data_Cleaning.vcxproj -> C:\Users\zheng\source\repos\A1_Data_Cleaning\Debug\A1_Data_Cleaning.exe

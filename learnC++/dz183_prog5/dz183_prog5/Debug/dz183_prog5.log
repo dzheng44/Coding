@@ -1,0 +1,13 @@
+﻿  dz183_prog5_TestCatalogClass.cpp
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(72,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(86,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(119,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(185,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(231,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(277,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\dz183_prog5\dz183_prog5_CatalogClass.h(323,22): warning C4018: '<': signed/unsigned mismatch
+  dz183_prog5.vcxproj -> C:\Users\zheng\OneDrive\Documents\College\C++\dz183_prog5\Debug\dz183_prog5.exe
