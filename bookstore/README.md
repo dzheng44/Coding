@@ -1,3 +1,1 @@
-# M-Tgroup18
-
-Group Project for Methods and Tools
+Worked on a bookstore that accepted, added, and removed books from a sql database. It was connected to adminphp and changed the database based on the user input in visualstudio (which I used to code this assignment with my group members). The user would be allow to select and buy books; the program would return a total and adjust the stock accordingly. 
